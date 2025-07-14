@@ -12,9 +12,6 @@ I have been enjoying data analysis ever since I started my first research paper,
 - **Dev Tools:** Git · Docker   
 - **Data:** Data cleaning · Statistical analysis · Visualization (Matplotlib)
 
-### 📈 GitHub Stats
-![Sergio’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-
 ### 🤝 Let’s Connect
 Feel free to reach out if you’re looking for a data-analysis or back-end developer (Python/Go) for your team!
 - 📫 Email: sergio.flores.c@uni.pe  
